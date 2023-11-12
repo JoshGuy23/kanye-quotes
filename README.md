@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A small app that displays quotes from Kanye West using the Kaney Rest API.
+A small app that displays quotes from Kanye West using the Kanye Rest API.
 
 ## Instructions
 
